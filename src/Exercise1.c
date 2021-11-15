@@ -13,7 +13,8 @@ Ex:
 
 int Ex1(char str[]){
 	//Your codes here
-    
+    if(a > b)
+	printf("A");
 }
 
 int main(int argc, char *argv[]) {
